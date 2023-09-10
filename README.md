@@ -36,3 +36,7 @@ To install the required Python libraries, you can run:
 
 ```bash
 pip install -r requirements.txt
+
+## Data Sources
+
+Our data was webscraped from [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#High-grossing_films_by_year)
