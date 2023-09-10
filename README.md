@@ -31,10 +31,10 @@ Our data was webscraped from [Wikipedia](https://en.wikipedia.org/wiki/List_of_h
 
 ## Data Cleaning
 
-The data was imported into excel and cleaned 
+The data was imported into excel and cleaned [Excel file](https://github.com/Adesuaayo/Web-Scraped-Highest-Grossing-Films-/blob/main/highest_gross_films_by_year.xlsx)
 
 ## Analysis and Visualization
 
-The data was analyzed using excel and the visualization was carried on Tableau
+The data was analyzed using excel and the visualization was carried on [Tableau](https://public.tableau.com/views/Highest_GrossFilmsbyyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
