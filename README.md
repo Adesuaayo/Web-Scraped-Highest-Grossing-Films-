@@ -6,7 +6,6 @@ This repository contains data and code for scraping and analyzing data on the hi
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Requirements](#requirements)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Data Cleaning](#data-cleaning)
@@ -25,17 +24,6 @@ The film industry is known for its box office successes, and understanding the h
 - Data analysis and visualization to identify trends.
 - Exporting cleaned data to a CSV file for further use.
 - Easily adaptable for similar web scraping projects.
-
-## Requirements
-
-- Python 3.x
-- Required Python libraries (specified in `requirements.txt`)
-- Jupyter Notebook (for running the provided analysis notebooks)
-
-To install the required Python libraries, you can run:
-
-```bash
-pip install -r requirements.txt
 
 ## Data Sources
 
