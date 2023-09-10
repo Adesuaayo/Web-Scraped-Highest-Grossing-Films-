@@ -23,7 +23,7 @@ The film industry is known for its box office successes, and understanding the h
 - Data cleaning and formatting for analysis.
 - Data analysis and visualization to identify trends.
 - Exporting cleaned data to a CSV file for further use.
-- Easily adaptable for similar web scraping projects.
+- Easily adaptable code for similar web scraping projects.
 
 ## Data Sources
 
