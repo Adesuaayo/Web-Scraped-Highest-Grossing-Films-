@@ -30,9 +30,10 @@ The film industry is known for its box office successes, and understanding the h
 Our data was webscraped from [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#High-grossing_films_by_year)
 
 ## Data Cleaning
+
 The data was imported into excel and cleaned 
 
-## Analysis and Visualization'
+## Analysis and Visualization
 
 The data was analyzed using excel and the visualization was carried on Tableau
 
