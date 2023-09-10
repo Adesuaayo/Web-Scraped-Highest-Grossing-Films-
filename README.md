@@ -27,14 +27,14 @@ The film industry is known for its box office successes, and understanding the h
 
 ## Data Sources
 
-Our data was webscraped from [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#High-grossing_films_by_year)
+Our primary data source is [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_films#High-grossing_films_by_year), where we scraped information about the highest-grossing films by year.
 
 ## Data Cleaning
 
-The data was imported into excel and cleaned [Excel file](https://github.com/Adesuaayo/Web-Scraped-Highest-Grossing-Films-/blob/main/highest_gross_films_by_year.xlsx)
+To ensure the data's accuracy and usability, we conducted data cleaning and formatting using Microsoft Excel. You can access the cleaned data in this [Excel file](https://github.com/Adesuaayo/Web-Scraped-Highest-Grossing-Films-/blob/main/highest_gross_films_by_year.xlsx)
 
 ## Analysis and Visualization
 
-The data was analyzed using excel and the visualization was carried on [Tableau](https://public.tableau.com/views/Highest_GrossFilmsbyyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+The heart of our analysis lies in Excel, where we cleaned and analyzed the data to reveal its hidden stories. For visualizations, we harnessed the power of  [Tableau](https://public.tableau.com/views/Highest_GrossFilmsbyyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
